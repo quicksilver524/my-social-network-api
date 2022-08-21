@@ -61,7 +61,7 @@ Use this project to build a social networking hub for poeple to access and share
     - http://localhost:3001/api/thoughts/:id (required to delete, update, or just to read one tag)
     - http://localhost:3001/api/thougts/:thoughtsId/reactions (required to add a reaction to a thought)
 
-      To create a reaction - JSON being send will be formated like this: { "reactionBody": "This is an example reaction",                 "username": "username of person creating the reaction" }
+      To create a reaction - JSON being send will be formatted like this: { "reactionBody": "This is an example reaction",                 "username": "username of person creating the reaction" }
     - http://localhost:3001/api/thoughts/:thoughtsId/reactions/:reactionsId (required to delete a reaction from a thought)
 
 
