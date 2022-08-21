@@ -18,7 +18,7 @@
 
 ## Description
 
-This is a social networking API web app to give a place for users to add their thoughts, make friends, and react to friends thoughts. This app utilizes mongoose, moment.js and operates through insomnia. Below is a walk through video.
+This is a social networking API web app to give a place for users to add their thoughts, make friends', and react to friends thoughts. This app utilizes mongoose, moment.js and operates through insomnia. Below is a walk through video.
 
 ## Walkthrough-Video
 https://user-images.githubusercontent.com/102430476/185806300-3ed16603-74ec-451f-8ba0-12cec03dd8cd.mp4
@@ -33,7 +33,7 @@ In order to install this project you must clone this project on to your local ma
 
 ## Usage
 
-Use this project to build a social networking hub for poeple to access and share thoughts with eachother..
+Use this project to build a social networking hub for people to access and share thoughts with eachother..
 
 ## Instructions
 
