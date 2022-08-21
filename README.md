@@ -53,7 +53,7 @@ Use this project to build a social networking hub for poeple to access and share
     - http://localhost:3001/api/user
     - http://localhost:3001/api/user/:id (required to delete, update, or just to read one category)
     
-    - To post a user - JSON being sent will be this: { "username": "username", "email": "email@example.com" }
+      To post a user - JSON being sent will be this: { "username": "username", "email": "email@example.com" }
     - http://localhost:3001/api/user/:userId/friends/:friendsId (required to delete and add a friend)
 
     - http://localhost:3001/api/thoughts
